@@ -1,0 +1,28 @@
+// PACKAGE USE TO import COSTOM SECTION STYLES file
+@use '../custom' as *;
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #e0fbfc;
+}
+
+.navbar-dark .navbar-toggler {
+  border-color: #ee6c4d;
+}
+
+.navbar-toggler:focus {
+  text-decoration: none;
+  outline: 0;
+  box-shadow: 0 0 0 0;
+}
+
+.sticky-top {
+    transition: all 0.25s ease-in;
+}
+
+/* style for when sitcky is applied */
+.stuck .navbar.sticky-top {
+    background-color: #293241 !important;
+    //margin-top: 0 !important;
+    padding-top: .8rem !important;
+    padding-bottom: .8rem !important;
+}

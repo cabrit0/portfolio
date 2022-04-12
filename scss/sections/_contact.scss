@@ -1,0 +1,11 @@
+
+input {
+  background-color: rgba(239, 110, 78, 1);
+}
+
+@media (min-width: 768px) {
+    .form-container{
+        max-width: 50%;
+        margin:auto
+    }
+}

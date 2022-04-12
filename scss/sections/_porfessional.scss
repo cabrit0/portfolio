@@ -1,0 +1,87 @@
+.tec-img-title {
+  font-size: 1.7rem;
+}
+.tec-img-title span {
+  font-size: 2rem;
+}
+.tec-sub-title {
+  font-size: 1.4rem;
+}
+.tec-description {
+  font-size: 0.82rem;
+}
+.tec-logos-img {
+  width: 35px;
+  height: 35px;
+}
+.tec-logos-lg {
+  width: 45px;
+  height: 35px;
+}
+.mongo-logo {
+  width: 65px;
+  height: 35px;
+}
+.tec-img {
+  width: 160px;
+  height: auto;
+  border-radius: 50%;
+  overflow: hidden;
+  margin: auto;
+}
+.tease {
+  font-size: 1.3rem;
+  opacity: 0.8;
+}
+
+@media (min-width: 393px) {
+  .tec-img-title {
+    font-size: 1.9rem;
+  }
+  .tec-img-title span {
+    font-size: 2.1rem;
+  }
+  .tec-img {
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: auto;
+  }
+  .tec-sub-title {
+    font-size: 1.6rem;
+  }
+  .tec-description {
+    font-size: 0.9rem;
+  }
+  .tease {
+    font-size: 1.5rem;
+    opacity: 0.8;
+  }
+}
+
+@media (min-width: 768px) {
+  .tec-img-title {
+    font-size: 2.3rem;
+  }
+  .tec-img-title span {
+    font-size: 2.6rem;
+  }
+  .tec-img {
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: auto;
+  }
+  .tec-sub-title {
+    font-size: 1.4rem;
+  }
+  .tec-description {
+    font-size: 1.2rem;
+  }
+  .tease {
+    font-size: 2rem;
+    opacity: 0.8;
+  }
+}

@@ -1,0 +1,17 @@
+@use "custom";
+
+//IMPORT COMPONENTS
+@use "componets/animations";
+@use "componets/buttons";
+@use "componets/mixins";
+@use "componets/typography";
+
+//IMPORT SECTIONS
+@use "sections/about";
+@use "sections/footer";
+@use "sections/intro-section";
+@use "sections/navbar";
+@use "sections/porfessional";
+@use "sections/projecs";
+@use "sections/contact";
+
