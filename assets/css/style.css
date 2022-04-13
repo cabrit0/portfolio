@@ -11440,7 +11440,7 @@ textarea.form-control-lg {
 }
 
 .tec-img {
-  width: 160px;
+  width: 140px;
   height: auto;
   border-radius: 50%;
   overflow: hidden;
@@ -11518,8 +11518,9 @@ textarea.form-control-lg {
   object-fit: cover;
 }
 
-input {
-  background-color: rgb(239, 110, 78);
+.intro-foot {
+  height: 35%;
+  overflow: hidden;
 }
 
 @media (min-width: 768px) {
