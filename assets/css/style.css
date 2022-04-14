@@ -11142,6 +11142,10 @@ body {
   fill: #ee6c4d;
 }
 
+.tittle {
+  font-size: 3rem;
+}
+
 .letter-0 {
   font-family: "Roboto Mono", monospace;
 }
@@ -11449,12 +11453,12 @@ body {
 }
 
 .tec-logos-lg {
-  width: 45px;
+  width: 35px;
   height: 35px;
 }
 
 .mongo-logo {
-  width: 65px;
+  width: 35px;
   height: 35px;
 }
 
@@ -11508,6 +11512,21 @@ body {
 
   .tec-img-title span {
     font-size: 2.6rem;
+  }
+
+  .tec-logos-img {
+    width: 50px;
+    height: 50px;
+  }
+
+  .tec-logos-lg {
+    width: 50px;
+    height: 50px;
+  }
+
+  .mongo-logo {
+    width: 50px;
+    height: 50px;
   }
 
   .tec-img {
