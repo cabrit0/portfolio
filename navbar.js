@@ -6,7 +6,6 @@ new IntersectionObserver(function (e, o) {
   }
 }).observe(document.querySelector(".trigger"));
 
-
 //back top
 
 mybutton.addEventListener("click", backToTop);
