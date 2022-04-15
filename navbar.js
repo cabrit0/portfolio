@@ -14,3 +14,9 @@ function backToTop() {
   document.body.scrollTop = 0;
   document.documentElement.scrollTop = 0;
 }
+
+let stars = document.querySelectorAll(".shooting_star");
+
+stars.forEach((star, index, array) => {
+  star.classList()
+});
